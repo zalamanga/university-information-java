@@ -59,3 +59,7 @@ Versi awal memakai beberapa `Scanner` pada stream yang sama, menu satu kali, dan
 Ini latihan pewarisan kelas, bukan sistem informasi kampus. Data tidak ditulis ke file, tidak bertahan setelah keluar, dan tidak memiliki fitur edit/hapus, autentikasi, atau integrasi layanan lain. Gunakan data contoh saat mencoba.
 
 Lihat [NOTICE.md](NOTICE.md) untuk pemetaan kelas asal dan status atribusi/lisensi. Folder build `target/` tidak disertakan dalam Git.
+
+## Alur kode
+
+[Diagram alur, tanggung jawab file, dan batas penyimpanan](docs/CODE_FLOW.md).
